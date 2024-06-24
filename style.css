@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #171717; /* Dark gray background */
+  color: #fff; /* White text color */
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+  background-color: #212121; /* Slightly lighter gray for container */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle box shadow */
+}
+
+.coming-soon {
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-weight: lighter; /* Modern look with lighter weight */
+  font-family: 'Amatic SC', cursive; /* Modern cursive font (optional) */
+}
+
+p {
+  font-size: 1.2em;
+}
